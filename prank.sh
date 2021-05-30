@@ -1,4 +1,3 @@
-GNU nano 5.7                EXPLOID.sh
 #!/bin/bash
 clear
 naga(){
