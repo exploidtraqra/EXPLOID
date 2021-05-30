@@ -1,5 +1,4 @@
 # EXPLOID
 Fake tools
-'''
-bash 
-'''
+# RUNING TOOLS FAKE
+<t>bash prank.sh</t>
