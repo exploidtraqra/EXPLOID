@@ -1,2 +1,5 @@
 # EXPLOID
 Fake tools
+'''
+bash 
+'''
